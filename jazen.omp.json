@@ -17,7 +17,7 @@
 				},
 				{
 					"background": "#61ffca",
-					"foreground": "#282a36",
+					"foreground": "#110F18",
 					"powerline_symbol": "\ue0b0",
 					"properties": {
 						"template": " {{ .HEAD }} "
